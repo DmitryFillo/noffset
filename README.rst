@@ -27,6 +27,6 @@ Explanatory example
     next button: <a href=".../?cursor={{ to_template['cursor_next'] }}&direction=True">next</a>
     prev button: <a href=".../?cursor={{ to_template['cursor_prev'] }}&direction=False">prev</a>
 
-What about `reverse` param? If False last item in DB will be first (like newspapers, comments, etc). If True last item in DB will be honestly last.
+What about *reverse* param? If False last item in DB will be first (like newspapers, comments, etc). If True last item in DB will be honestly last.
 
 Simply.
