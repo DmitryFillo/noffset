@@ -4,7 +4,7 @@ noffset
 Summary
 -------
 
-Fast pagination for sql-like databases. **Does not use offset!**
+Fast pagination for sql-like databases. **Does not use offset!** `See presentation <https://docs.google.com/file/d/1zaK9h6WtjESetn77XsoK1rqRhXys-vjGu5NQcz40VJSMlpUuQ6ddZdadtYQl/edit?usp=sharing>`_.
 
 Supports: SQLAlchemy.
 
