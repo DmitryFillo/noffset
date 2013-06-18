@@ -6,6 +6,8 @@ Summary
 
 Fast pagination for sql-like databases. **Does not use offset!**
 
+Supports: SQLAlchemy.
+
 Explanatory example
 --------------
 
