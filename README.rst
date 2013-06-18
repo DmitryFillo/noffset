@@ -19,7 +19,7 @@ Explanatory example
 
     to_template = pagination(SQLAlchemy, DataModel, PerPageItems, cursor, direction, reverse)
 
-    #### `to_template` is **dict(data, cursor_next, cursor_prev, pages_total)** now.
+*to_template* is **dict(data, cursor_next, cursor_prev, pages_total)** now.
 
 .. code-block:: html
 
