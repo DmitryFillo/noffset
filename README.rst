@@ -29,4 +29,4 @@ Explanatory example
 
 What about *reverse* param? If False last item in DB will be first (like newspapers, comments, etc). If True last item in DB will be honestly last.
 
-Simply.
+Simply. Also see the source code.
