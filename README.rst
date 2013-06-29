@@ -15,9 +15,9 @@ Explanatory example
 
     import noffset.sqla.pagination as pagination
 
-    #### `cursor`, `direction`, `reverse` are optinal. If these are not defined func will return param for first page.
+    #### `cursor`, `direction`, `reverse` are optional. If these are not defined func will return param for first page.
 
-    to_template = pagination(SQLAlchemy, DataModel, PerPageItems, cursor, direction, reverse)
+    to_template = pagination(sqla_db_object, db_model_class, perpage_items_num, cursor, direction, reverse)
 
 *to_template* is **dict(data, cursor_next, cursor_prev, pages_total)** now.
 
