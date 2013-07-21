@@ -1,1 +1,3 @@
 -- add GAE Datastore backend
+-- add Django ORM backend
+-- add values/columns to fetch (not only all())
