@@ -1,7 +1,7 @@
 noffset
 =======
 
-**OBSOLETED! Not supported, is was my old code for some freelance project, now I think it can be better coded, so I don't want to support it. Just history.**
+**OBSOLETED! Not supported, just history.**
 
 Summary
 -------
